@@ -1,0 +1,21 @@
+.background {
+  background: url('140371_eBankingSplashPage_kalo_Its_Here---no-phone.png') no-repeat center center fixed;
+  background-size: auto;
+  height: 500px;
+}
+
+  #text1 {
+    color: white;
+  }
+
+  #text2 {
+    color: white;
+  }
+
+  #text3 {
+    color: white;
+  }
+
+  html {
+    font-family: sans-serif;
+  }
